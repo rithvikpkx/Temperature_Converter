@@ -1,0 +1,3 @@
+This is a simple program made with java that converts temperature units
+It uses the Scanner class and takes in a temperature in either Fahrenheit or Celcius from the user
+Then it converts it into the other unit and outputs that
